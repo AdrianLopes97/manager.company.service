@@ -1,4 +1,4 @@
-namespace manager.company.service.webapi
+namespace manager.company.service.domain.entities
 {
     public class WeatherForecast
     {
